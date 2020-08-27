@@ -1,0 +1,116 @@
+DB
+
+Data Restore  432	0.020187	shipping secondary log primary database server restore job setup mode servers standby restoring configured jobs fails restored fail copy configuration
+
+Database Growing/Shrinking 355	0.017648	file log size shrink database growing sql shrinking mode space backup full recovery grow reduce day server growth initial simple 
+
+Backup 4	0.01531	backup full log backups transaction restore differential taking minutes chain hour hours night scheduled day restored daily correct databases diff 
+
+SQL Server Management Studio 119	0.011605	server sql log run instance make existing scenario put running question ssms complete short happen settings information msdn cut explain 
+
+Log file shrinking/File creation deletion 215	0.010949	log file files time created question don shows automatically running suggestions enabled recently deleted safe previous exists move group attempting 
+QID=102385
+
+log_reuse_wait_desc/Replication
+352	0.009899	transaction log database backup logs backed understand backing truncated noticed microsoft encountered occurs continue performing truncation fill gbs attempted occurring 
+QID=114922 
+
+SO
+
+Framework specific logging problems 63	0.019796	logging application solution good approach implement question make don case system based specific practice write idea support standard framework handle 
+
+QID=37670982,3768160    37681979    37685186
+-
+
+Log file issues 324	0.012734	log file created files create written write empty creating application path time problem filename writing creates append content logfile location
+QID=4345952 4346846 4347382
+
+Log Appending 160	0.010308	log appender apache org layout file patternlayout conversionpattern properties logger debug info rootlogger yyyy rollingfileappender logs consoleappender true threshold maxfilesize 
+11822581    11832309 
+
+Logging in Android 80	0.008433	logcat android device app adb eclipse studio phone emulator devices messages application tag show running debug run usb debugging showing
+11461650    11063641    11072316    11826025
+
+Logger class of log4j 447	0.00632	logger class static public getlogger private log final info import void string loggerfactory myclass java getname code main logmanager logging 
+
+11068043    11861171
+
+SU
+
+Event Log 425	0.023095	event windows log viewer events logs system running application service logged information manager microsoft shows source services desktop eventlog internet 
+
+315836 90439
+
+Seaching content in log files 197	0.012188	log file create directory files var find searching contents path entries show ubuntu purpose debugging created separate big provide missing 
+30712/
+
+
+Command line log 461	0.006019	command line file log output text lines specific expected achieve great flag updated master put mode rules pipe answer appended 
+766903    836748
+
+
+Syslog server logging 403	0.00526	syslog server remote send rsyslog syslogd configure conf configured standard host forward receive centralized docs sending level messages configurations capture
+320191
+
+Logging system time 21	0.005201	computer specific times time track activity software running method work determine stops asked macbook win minutes started pro night advance 
+
+
+
+SF
+Linux var/log directory 215	0.010981	log var file empty conf files created cat config configuration directory lines wrong works grep restarted added output messages idea 
+438622
+
+
+Logging in Apache 346	0.007179	apache log access file logs error web server files requests php mod website httpd site found configuration doesn lamp htaccess
+437399    440614
+
+Log file changing or rotation 350	0.006754	log file files write written content tmp separate line don location open add logfile contents check put linux
+ change option 
+713900
+
+Open source tools for log analysis 499	0.006676	tool log logs web good tools time software analysis analyzer analyze based free files awstats give open view statistics source 
+
+43825
+
+Syslog Configuration File 303	0.005208	syslog messages message conf running send configuration problem source syslogd udp version receiving setting advance central sends forwarding difference assume
+
+441589
+
+SE
+
+Client Server Logging 4	0.061856	log web service server client logs app application services send email net call strategy asp queue session page calls user 
+
+177775
+
+Production log 3	0.054915	log level logs trace application debug information find production message logged questions state logging test environment tracing framework specific answer 
+137568    168059
+
+
+Debug Logging 16	0.054375	string public log return class void method private methods logging engineruntimeexception property code thirdpartyclass true content interface trace telemetryclient wrap 
+176078
+
+Logger class log4j 7	0.049981	logger class object application thread instance objects getlogger loggers pattern warn create global structure static module myloghelper cases singleton level 
+168486
+
+
+Expection Handling 9	0.043996	exception catch exceptions error throw step log dangerous externalapp public code void static handling application control errors event production class
+173401
+
+AE
+
+
+Android Emulator Log 13	0.133604	logcat adb device android logs file read access output crash root command show system shell emulator terminal running run nexus 
+26449
+
+
+App Usage Logging 7	0.063215	apps app google install play installed store list don tablet question user android history back applications file exception crashes account 
+30144
+
+Mobile phone ROM issues 0	0.057305	problem update battery phone logcat device samsung rom started reboot running freeze installed determine button factory power alogrec happened home
+21516
+
+Background service monitoring 14	0.035013	data usage connection sending track monitoring http background texts resource suggestions server location site rate net collect display active type
+26080
+
+Android boot-loop issues 11	0.032077	boot debugging log android phone kernel false bootloop bootloader messages emulator ret code nexus crashes kind fastboot panic usb stuck 
+26449
